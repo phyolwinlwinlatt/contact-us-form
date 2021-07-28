@@ -1,0 +1,6 @@
+@import './variable.scss';
+.alert {
+   border: 1px solid $borderColor;
+   padding: $padding;
+   background-color: $backgroundColor;
+}

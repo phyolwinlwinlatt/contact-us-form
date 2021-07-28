@@ -1,0 +1,17 @@
+@import './variable.scss';
+
+.form {
+   // border: 1px solid $borderColor;
+   padding:20px;
+   background-color: $backgroundColor;
+   box-shadow:2px 2px 2px  #f0f0f5, -2px -2px 2px #f0f0f5 ;
+}
+
+.button {
+   margin-top: 10px;
+}
+
+.contactInformation {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
